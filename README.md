@@ -27,3 +27,6 @@ Automação e lógica condicional
 
 Fluxo
 Usuário → Tipo de gasto → Valor → Pagamento → Data → Mês → Conferência → Google Sheets
+
+DEMONSTRACAO
+https://typebot.co/projeto-controle-de-gastos-xx8bfms
